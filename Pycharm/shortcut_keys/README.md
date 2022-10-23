@@ -4,6 +4,14 @@ Pycharm Shortcut Keys
 # Editing
 - 라인 지우기
   Command(⌘) + Backspace(⌫)
+- 다음 줄에 라인 만들기
+  Shift(⇧) + Enter
+- 현재 줄에 라인 만들기
+  Command(⌘) + Option(⌥) + Enter
+- 라인 이동
+  Option(⌥) + Shift(⇧) + 방향키
+- 구문 이동
+  Command(⌘) + Shift(⇧) + 방향키
 
 - 라인 정렬 <br>
   Command(⌘) + Option(⌥) + l

@@ -42,7 +42,7 @@ Pycharm Shortcut Keys
 - 최근 파일들 <br>
   Command(⌘) + e
 - 사용된 위치 찾기 <br>
-  Command(⌘) + (fn) + F7
+  Option(⌥) + (fn) + F7
 
 - Project 열기 <br>
   Command(⌘) + 1
